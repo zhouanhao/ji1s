@@ -1,0 +1,20 @@
+Host srvlocal
+HostName 2a02:0180:0006:0001:0000:0000:0000:181d
+User root
+IdentitiesOnly yes
+
+Host srvremote
+HostName 2a02:0180:0006:0001:0000:0000:0000:1cc8
+User root
+IdentitiesOnly yes
+
+Host srvcbci
+HostName 2a02:0180:0006:0001:0000:0000:0000:21f7
+User root
+IdentitiesOnly yes
+
+Host cbciremote
+HostName 2a02:0180:0006:0001:0000:0000:0000:2209
+User root
+IdentitiesOnly yes
+
